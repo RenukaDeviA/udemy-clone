@@ -94,7 +94,7 @@ body{
 
 .sale-image__offer{
     width: 30%;
-    border: solid black 2px;
+    border: solid black 5px;
     padding: 2%;
     position: absolute;
     top:20%;
